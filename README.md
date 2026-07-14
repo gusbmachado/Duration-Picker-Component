@@ -1,4 +1,4 @@
-# React Dynamic Tabs
+# Duration Picker Component
 
 A React component that offer a variation of time-picker component that let the user select a range of time.
 
@@ -31,7 +31,7 @@ import DurationPicker from 'react-custom-duration-picker';
 
 ## Contributing
 
-If you would like to contribute to the `react-dynamic-tabs` package, please fork the repository and submit a pull request with your changes.
+If you would like to contribute to the `react-custom-duration-picker` package, please fork the repository and submit a pull request with your changes.
 
 ## License
 
